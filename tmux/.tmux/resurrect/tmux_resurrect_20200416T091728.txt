@@ -1,0 +1,14 @@
+pane	zsh	1	:william	0	:-	1	:/home/william	1	zsh	:
+pane	zsh	2	:135	1	:*	1	:/home/william	1	zsh	:
+pane	zsh	3	:ali	0	:	1	:/home/william/20200414	1	zsh	:
+pane	zsh	4	:lyb	0	:	1	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l linyb@10.36.109.148 192.168.10.224
+pane	zsh	4	:lyb	0	:	2	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l linyb@10.36.113.144 192.168.10.224
+pane	zsh	5	:tora	0	:	1	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l xmrckj 101.230.205.155
+pane	zsh	6	:jd	0	:	1	:/home/william	1	zsh	:
+window	zsh	1	0	:-	be40,383x44,0,0,3
+window	zsh	2	1	:*	be41,383x44,0,0,4
+window	zsh	3	0	:	5f4f,383x44,0,0,10
+window	zsh	4	0	:	e0bd,383x44,0,0{191x44,0,0,15,191x44,192,0,16}
+window	zsh	5	0	:	5f56,383x44,0,0,17
+window	zsh	6	0	:	5f57,383x44,0,0,18
+state	zsh	

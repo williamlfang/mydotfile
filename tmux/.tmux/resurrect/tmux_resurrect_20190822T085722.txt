@@ -1,0 +1,15 @@
+pane	zsh	1	:william	0	:#	1	:/home/william	1	zsh	:
+pane	zsh	1	:william	0	:#	2	:/home/william/Documents/electronic-wechat	0	zsh	:
+pane	zsh	1	:william	0	:#	3	:/home/william	0	zsh	:
+pane	zsh	1	:william	0	:#	4	:/home/william	0	zsh	:
+pane	zsh	2	:xtp	0	:	1	:/home/william	1	zsh	:
+pane	zsh	2	:xtp	0	:	2	:/home/william	0	zsh	:
+pane	zsh	3	:server166	0	:-	1	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l fl 192.168.1.166
+pane	zsh	4	:ali	0	:	1	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 47.98.117.71
+pane	zsh	5	:server188	1	:*	1	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.188
+window	zsh	1	0	:#	b165,190x49,0,0{137x49,0,0,1,52x49,138,0[52x14,138,0{18x14,138,0,2,33x14,157,0,3},52x34,138,15,4]}
+window	zsh	2	0	:	12fb,190x49,0,0{95x49,0,0,5,94x49,96,0,6}
+window	zsh	3	0	:-	d0c4,190x49,0,0,7
+window	zsh	4	0	:	d0c5,190x49,0,0,8
+window	zsh	5	1	:*	688f,190x49,0,0,10
+state	zsh	

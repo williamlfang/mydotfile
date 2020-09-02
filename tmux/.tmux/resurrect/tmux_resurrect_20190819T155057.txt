@@ -1,0 +1,15 @@
+pane	zsh	1	:william	0	:Z	1	:/home/william	1	python	:/usr/bin/python /home/william/.local/bin/mycli -h 192.168.1.199 -P 3306 -u trader -p i520hicloud
+pane	zsh	1	:william	0	:Z	2	:/home/william/Documents/electronic-wechat	0	zsh	:
+pane	zsh	1	:william	0	:Z	3	:/home/william	0	zsh	:
+pane	zsh	1	:william	0	:Z	4	:/home/william	0	zsh	:
+pane	zsh	2	:lyb@xtp	0	:#-Z	1	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l linyb@10.36.113.144 192.168.10.224
+pane	zsh	2	:lyb@xtp	0	:#-Z	2	:/home/william/Desktop	1	zssh	:zssh linyb@10.36.113.144@192.168.10.224
+pane	zsh	2	:lyb@xtp	0	:#-Z	3	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l linyb@10.36.113.144 192.168.10.224
+pane	zsh	2	:lyb@xtp	0	:#-Z	4	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l linyb@10.36.109.148 192.168.10.224
+pane	zsh	3	:server166	0	:	1	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l fl 192.168.1.166
+pane	zsh	4	:ali	1	:*	1	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 47.98.117.71
+window	zsh	1	0	:Z	28fd,190x49,0,0{95x49,0,0,1,94x49,96,0[94x14,96,0{47x14,96,0,5,46x14,144,0,7},94x34,96,15,6]}
+window	zsh	2	0	:#-Z	bb71,190x49,0,0[190x18,0,0{95x18,0,0,3,94x18,96,0,11},190x30,0,19{95x30,0,19,4,94x30,96,19,9}]
+window	zsh	3	0	:	688f,190x49,0,0,10
+window	zsh	4	1	:*	6891,190x49,0,0,12
+state	zsh	

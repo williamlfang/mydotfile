@@ -1,0 +1,13 @@
+pane	zsh	1	:william	0	:	1	:/home/william	1	zsh	:perl /home/william/bin/tlmgr -gui
+pane	zsh	1	:william	0	:	2	:/home/william/Documents/electronic-wechat	0	zsh	:
+pane	zsh	1	:william	0	:	3	:/home/william	0	zsh	:
+pane	zsh	1	:william	0	:	4	:/home/william	0	zsh	:
+pane	zsh	2	:xtp	1	:*	1	:/home/william	1	zsh	:
+pane	zsh	2	:xtp	1	:*	2	:/home/william	0	zsh	:
+pane	zsh	3	:server166	0	:	1	:/home/william	1	zsh	:
+pane	zsh	4	:ali	0	:-	1	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 47.98.117.71
+window	zsh	1	0	:	b165,190x49,0,0{137x49,0,0,1,52x49,138,0[52x14,138,0{18x14,138,0,2,33x14,157,0,3},52x34,138,15,4]}
+window	zsh	2	1	:*	1304,190x49,0,0{95x49,0,0,7,94x49,96,0,8}
+window	zsh	3	0	:	d0c6,190x49,0,0,9
+window	zsh	4	0	:-	688f,190x49,0,0,10
+state	zsh	

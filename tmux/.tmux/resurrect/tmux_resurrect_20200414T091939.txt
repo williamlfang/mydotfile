@@ -1,0 +1,33 @@
+pane	bk	1	:zsh	1	:*	1	:/home/william/Documents/myTORA/build	1	zsh	:
+pane	bk	1	:zsh	1	:*	2	:/home/william/Documents/myTORA/build	0	zsh	:
+pane	zsh	1	:jd	0	:	1	:/home/william	1	ssh	:ssh fl@114.67.109.5
+/usr/local/v2ray/v2ray
+pane	zsh	2	:ali	0	:	1	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 47.98.117.71
+pane	zsh	3	:sshpass	1	:*Z	1	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.135
+pane	zsh	3	:sshpass	1	:*Z	2	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.135
+pane	zsh	3	:sshpass	1	:*Z	3	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.188
+pane	zsh	3	:sshpass	1	:*Z	4	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.199
+pane	zsh	3	:sshpass	1	:*Z	5	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.199
+pane	zsh	3	:sshpass	1	:*Z	6	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 47.98.117.71
+pane	zsh	3	:sshpass	1	:*Z	7	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.135
+pane	zsh	4	:sshpass	0	:#Z	1	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.135
+pane	zsh	4	:sshpass	0	:#Z	2	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.135
+pane	zsh	4	:sshpass	0	:#Z	3	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.135
+pane	zsh	4	:sshpass	0	:#Z	4	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.135
+pane	zsh	5	:sshpass	0	:-	1	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.135
+pane	zsh	5	:sshpass	0	:-	2	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.135
+pane	zsh	5	:sshpass	0	:-	3	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.135
+pane	zsh	5	:sshpass	0	:-	4	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.135
+pane	zsh	6	:tora	0	:#	1	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l xmrckj 101.230.205.155
+pane	zsh	7	:zsh	0	:	1	:/home/william/Documents/myXTP/build	1	zsh	:
+pane	zsh	8	:zsh	0	:	1	:/home/william/Documents/myTORA/build	1	zsh	:
+window	bk	1	1	:*	c721,190x44,0,0[190x28,0,0,28,190x15,0,29,29]
+window	zsh	1	0	:	d21d,226x49,0,0,0
+window	zsh	2	0	:	d21e,226x49,0,0,1
+window	zsh	3	1	:*Z	5571,226x49,0,0{112x49,0,0[112x29,0,0{20x29,0,0,2,91x29,21,0,16},112x19,0,30{2x19,0,30,8,61x19,3,30,9,47x19,65,30,10}],113x49,113,0[113x29,113,0,6,113x19,113,30,7]}
+window	zsh	4	0	:#Z	82d2,226x49,0,0{43x49,0,0,19,42x49,44,0,39,139x49,87,0[139x24,87,0,17,139x24,87,25,25]}
+window	zsh	5	0	:-	6095,226x49,0,0[226x24,0,0{113x24,0,0,12,112x24,114,0,24},226x24,0,25{113x24,0,25,15,112x24,114,25,23}]
+window	zsh	6	0	:#	e93f,226x49,0,0,20
+window	zsh	7	0	:	6948,226x49,0,0,38
+window	zsh	8	0	:	e940,226x49,0,0,40
+state	zsh	

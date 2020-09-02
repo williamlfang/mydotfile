@@ -1,0 +1,36 @@
+pane	zsh	1	:william	0	:	1	:/home/william/disk/youtube/cs50-2019	0	zsh	:ssh xy@192.168.1.135
+pane	zsh	1	:william	0	:	2	:/home/william/Documents/electronic-wechat	0	npm	:npm
+pane	zsh	1	:william	0	:	3	:/home/william/Documents/blog	0	ssh	:ssh skl@192.168.1.135
+pane	zsh	1	:william	0	:	4	:/home/william	1	zsh	:
+pane	zsh	1	:william	0	:	5	:/home/william	0	zsh	:
+pane	zsh	1	:william	0	:	6	:/home/william	0	zsh	:
+pane	zsh	2	:xtp	0	:-	1	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l hanyuntz@10.36.109.159 192.168.10.224
+sshpass -p zzzzzzzzzzzz ssh -q -l linyb@10.36.109.148 192.168.10.224
+pane	zsh	2	:xtp	0	:-	2	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l linyb@10.36.109.148 192.168.10.224
+pane	zsh	2	:xtp	0	:-	3	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l linyb@10.36.109.148 192.168.10.224
+pane	zsh	2	:xtp	0	:-	4	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l hanyuntz@10.36.113.47 192.168.10.224
+pane	zsh	2	:xtp	0	:-	5	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l hanyuntz@10.36.113.47 192.168.10.224
+pane	zsh	2	:xtp	0	:-	6	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l linyb@10.36.113.144 192.168.10.224
+sshpass -p zzzzzzzzzzzz ssh -q -l linyb@10.36.113.144 192.168.10.224
+pane	zsh	2	:xtp	0	:-	7	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzzz ssh -q -l linyb@10.36.113.144 192.168.10.224
+pane	zsh	3	:server166	0	:#M	1	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l fl 192.168.1.166
+pane	zsh	3	:server166	0	:#M	2	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l fl 192.168.1.166
+pane	zsh	3	:server166	0	:#M	3	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l fl 192.168.1.166
+pane	zsh	3	:server166	0	:#M	4	:/home/william	0	sshpass	:sshpass -p zzzzzzz ssh -q -l hy 192.168.1.166
+pane	zsh	3	:server166	0	:#M	5	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l fl 192.168.1.166
+pane	zsh	3	:server166	0	:#M	6	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l fl 192.168.1.166
+pane	zsh	3	:server166	0	:#M	7	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l fl 192.168.1.166
+pane	zsh	3	:server166	0	:#M	8	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l fl 192.168.1.166
+pane	zsh	4	:ali	1	:*	1	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 47.98.117.71
+pane	zsh	4	:ali	1	:*	2	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l fl 192.168.1.166
+pane	zsh	5	:server188	0	:	1	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l trader 192.168.1.188
+pane	zsh	5	:server188	0	:	2	:/home/william	0	zsh	:
+pane	zsh	6	:server199	0	:	1	:/home/william	1	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l fl 192.168.1.199
+pane	zsh	6	:server199	0	:	2	:/home/william	0	sshpass	:sshpass -p zzzzzzzzzzz ssh -q -l root 192.168.1.199
+window	zsh	1	0	:	5b03,382x44,0,0{192x44,0,0,66,189x44,193,0{156x44,193,0[156x2,193,0,2,156x10,193,3,87,156x30,193,14,92],32x44,350,0[32x14,350,0,3,32x29,350,15,82]}}
+window	zsh	2	0	:-	a9dc,382x44,0,0{192x44,0,0[192x32,0,0,30,192x11,0,33{96x11,0,33,61,95x11,97,33,94}],189x44,193,0[189x23,193,0{74x23,193,0,79,114x23,268,0,96},189x20,193,24{94x20,193,24,29,94x20,288,24,93}]}
+window	zsh	3	0	:#M	000b,382x44,0,0{191x44,0,0[191x29,0,0{85x29,0,0,59,105x29,86,0,88},191x14,0,30{105x14,0,30,90,85x14,106,30,86}],95x44,192,0[95x22,192,0,81,95x21,192,23,89],94x44,288,0[94x22,288,0,69,94x21,288,23,74]}
+window	zsh	4	1	:*	f999,382x44,0,0{191x44,0,0,8,190x44,192,0,95}
+window	zsh	5	0	:	a118,382x44,0,0{192x44,0,0,64,189x44,193,0,12}
+window	zsh	6	0	:	dcb6,382x44,0,0{191x44,0,0,75,190x44,192,0,91}
+state	zsh	
